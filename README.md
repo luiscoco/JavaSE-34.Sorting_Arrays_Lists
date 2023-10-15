@@ -2,8 +2,6 @@
 
 Sorting arrays and lists in Java is a common task, and the language provides convenient ways to achieve this. Let's start with arrays.
 
-## Sorting Arrays(java.util.Arrays)
-
 ## 1. Arrays.sort()
 
 ```java
@@ -68,7 +66,7 @@ public class ObjectArraySortingExample {
 
 Here, the Person class implements the Comparable interface, providing a way to compare and sort instances of the class.
 
-## Sorting Lists
+## 3. Sorting Lists
 For sorting lists, you can use the Collections.sort() method.
 
 ```java
